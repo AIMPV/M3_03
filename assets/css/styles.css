@@ -1,0 +1,7 @@
+body, html {
+  height: 100%;
+}
+.square {
+  width: 200px;
+  height: 200px;
+}
